@@ -539,10 +539,7 @@ plt.ylabel('Frequency')
 plt.legend()
 plt.show()
 
-"""# 疊圖
-
-"""
-
+""" 疊圖 """
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
